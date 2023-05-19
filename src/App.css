@@ -1,0 +1,31 @@
+.car-sell-app{
+  position: absolute;
+  color:purple;
+  left: 43%;
+}
+
+form{
+  position: absolute;
+  top:8%;
+  left:13%;
+  width: 90%;
+  height: 45%;
+  padding: 4px;
+  color:rgb(0, 0, 0);
+
+}
+
+.App{
+border: solid purple;
+position: absolute;
+border-radius: 4px;
+width:1260px;
+height: 1385px;
+left: 12%;
+top:9.5%;
+}
+
+.make{
+  font-size: 20px;
+  color: purple;
+}
